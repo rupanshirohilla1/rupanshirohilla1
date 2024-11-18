@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rupanshi-rohilla-7b1804227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rupanshi-rohilla-7b1804227/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rupanshi-rohilla-7b1804227/" target="blank"><img align="center" src="<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/lenovo/Downloads/DALL%C2%B7E%202024-11-18%2014.36.48%20-%20A%20vibrant%20SVG-style%20background%20for%20a%20GitHub%20profile,%20tailored%20for%20a%20female%20coder%20and%20web%20developer%20with%20interests%20in%20machine%20learning.%20The%20design%20feat.webp" width="927" height="529">" alt="https://www.linkedin.com/in/rupanshi-rohilla-7b1804227/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
